@@ -1,6 +1,6 @@
 # libil2cpp.so renamer =]
 
-![Comparison](Comparison.png)
+![Comparison](/comparison.png)
 
 \
 This is a code-parsing IDAPython script that allows you to represent function names to libil2cpp.so from dumped Assembly-CSharp.dll with a little help of dnSpy.
